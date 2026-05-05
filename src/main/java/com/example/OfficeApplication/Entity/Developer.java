@@ -1,10 +1,7 @@
 package com.example.OfficeApplication.Entity;
 
 import jakarta.persistence.Entity;
-import lombok.Getter;
-import lombok.Setter;
-import lombok.NoArgsConstructor;
-import lombok.AllArgsConstructor;
+import lombok.*;
 
 @Getter
 @Setter
